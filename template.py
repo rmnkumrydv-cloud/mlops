@@ -19,6 +19,7 @@ list_of_files = [
     "src/pipeline/prediction_pipeline.py",
 
     # Utils
+    "src/utils/__init__.py"
     "src/utils/utils.py",
 
     # Logger & Exception handling
